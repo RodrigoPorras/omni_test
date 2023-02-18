@@ -1,0 +1,11 @@
+{
+    "bnb_home":"Home",
+    "bnb_about":"About Me",
+    "no_internet":"No Internet Connection",
+    "exit":"Exit",
+    "close_app":"Do yo want to close app?",
+    "no":"No",
+    "yes":"Yes",
+    "error":"Error",
+    "start_title":"Omni Flutter Test made by Rodrigo Porras"
+}

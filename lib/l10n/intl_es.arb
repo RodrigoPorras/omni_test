@@ -1,0 +1,11 @@
+{
+    "bnb_home":"Inicio",
+    "bnb_about":"Sobre Mi",
+    "no_internet":"No hay conexión de internet",
+    "exit":"Salir",
+    "close_app":"¿Desea cerrar la aplicación?",
+    "no":"No",
+    "yes":"Si",
+    "error":"Error",
+    "start_title":"Omni Flutter Test made by Rodrigo Porras"
+}
